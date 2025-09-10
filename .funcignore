@@ -1,0 +1,14 @@
+.vscode/**
+.husky/**
+test/**
+coverage/**
+src/**
+*.ts
+jest.config.*
+eslint.config.*
+/tsconfig.json
+/.prettierrc
+local.settings.json
+local.settings.json.example
+.env
+.env.*
