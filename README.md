@@ -32,7 +32,7 @@ Preconfigured with testing, linting, formatting, and a clean folder structure to
 
 ### 1. Clone and install
 ```bash
-git clone https://github.com/<your-username>/azure-func-ts-template my-func
+git clone https://github.com/akansal1599/azure-func-ts-template.git my-func
 cd my-func
 
 npm ci
